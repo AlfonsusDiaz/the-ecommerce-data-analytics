@@ -37,7 +37,7 @@ order by o.gender asc
 ## Step 2: Create some visualizations
 The picture below is one of the visualization from previous data manipulation process. For the better experience, you can seen on [My Tableau Story](https://public.tableau.com/views/ThelookEcommerceV_1/EcommerceV_1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-![Return Product](https://drive.google.com/file/d/1SGqtp3GfQfhwaaXioPJvCRjuyPpPe7gs/view?usp=sharing)
+![Return Product](https://public.tableau.com/static/images/Th/ThelookEcommerceV_1/EcommerceV_1/4_3.png)
 
 
 ## Contributing
